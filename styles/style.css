@@ -344,11 +344,6 @@ h6 {
   display: flex;
   align-items: center;
 }
-@media (max-width: 425px) {
-  .form-customers__wrapp {
-    margin-left: 15px;
-  }
-}
 .form-customers__wrapp input {
   background-color: transparent;
   width: 100%;

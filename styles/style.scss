@@ -439,10 +439,6 @@ h6 {
 		display: flex;
 		align-items: center;
 
-		@media (max-width:425px){
-			margin-left: 15px;
-		}
-
 
 		input {
 			background-color: transparent;
